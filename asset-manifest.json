@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.0dffc90a.css",
-    "main.js": "/static/js/main.562070b9.js",
-    "static/media/Coca-Cola.png": "/static/media/Coca-Cola.a98032d6908775a83228.png",
-    "static/media/pizza.png": "/static/media/pizza.355a48f3560fd7ff526a.png",
-    "static/media/pasta.png": "/static/media/pasta.d2b59378768e00ce18c4.png",
-    "static/media/banner-3.jpeg": "/static/media/banner-3.bfe7892923b51a7b2bdc.jpeg",
-    "static/media/chikn.png": "/static/media/chikn.768b6c15bd6cb156a74c.png",
-    "static/media/banner-2.jpg": "/static/media/banner-2.c261beadde1b3b2e862b.jpg",
-    "static/media/dish-5.png": "/static/media/dish-5.148bca2a6a30965ae6d7.png",
-    "static/media/dish-1.png": "/static/media/dish-1.ed578e40d83ead66f525.png",
-    "index.html": "/index.html",
-    "main.0dffc90a.css.map": "/static/css/main.0dffc90a.css.map",
-    "main.562070b9.js.map": "/static/js/main.562070b9.js.map"
+    "main.css": "/restaurant-/static/css/main.0dffc90a.css",
+    "main.js": "/restaurant-/static/js/main.ac08c811.js",
+    "static/media/Coca-Cola.png": "/restaurant-/static/media/Coca-Cola.a98032d6908775a83228.png",
+    "static/media/pizza.png": "/restaurant-/static/media/pizza.355a48f3560fd7ff526a.png",
+    "static/media/pasta.png": "/restaurant-/static/media/pasta.d2b59378768e00ce18c4.png",
+    "static/media/banner-3.jpeg": "/restaurant-/static/media/banner-3.bfe7892923b51a7b2bdc.jpeg",
+    "static/media/chikn.png": "/restaurant-/static/media/chikn.768b6c15bd6cb156a74c.png",
+    "static/media/banner-2.jpg": "/restaurant-/static/media/banner-2.c261beadde1b3b2e862b.jpg",
+    "static/media/dish-5.png": "/restaurant-/static/media/dish-5.148bca2a6a30965ae6d7.png",
+    "static/media/dish-1.png": "/restaurant-/static/media/dish-1.ed578e40d83ead66f525.png",
+    "index.html": "/restaurant-/index.html",
+    "main.0dffc90a.css.map": "/restaurant-/static/css/main.0dffc90a.css.map",
+    "main.ac08c811.js.map": "/restaurant-/static/js/main.ac08c811.js.map"
   },
   "entrypoints": [
     "static/css/main.0dffc90a.css",
-    "static/js/main.562070b9.js"
+    "static/js/main.ac08c811.js"
   ]
 }
